@@ -25,7 +25,8 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm)
 
 ### GitHub 통계
-![wlrnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wlrnjs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![wlrnjs's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wlrnjs&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
 
 ### 연락하기
