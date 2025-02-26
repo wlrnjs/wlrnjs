@@ -27,7 +27,7 @@
 ### GitHub 통계
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
-[![wlrnjs's Productivity Stats](https://github-readme-productivity-box.vercel.app/api?username=wlrnjs&theme=dark)](https://github.com/maxam2017/productive-box)
+[![Productive Box](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true)](https://github.com/YOUR_GITHUB_USERNAME/productive-box)
 
 ### 연락하기
 - **이메일**: wlrnjs5824@gmail.com
