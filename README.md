@@ -1,23 +1,23 @@
-## Hi there 👋
+### Hi there! I'm wlrnjs 👋
 
-<!--
-**wlrnjs/wlrnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend developer, constantly learning and improving my skills.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![wlrnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 📫 Contact Me
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true&theme=radical)
+Let's build something amazing together! 🚀
