@@ -29,3 +29,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
 
 **이메일**: wlrnjs5824@gmail.com
+**Velog**: https://velog.io/@wlrnjs
