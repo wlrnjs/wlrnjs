@@ -27,7 +27,7 @@
 ### GitHub 통계
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 **이메일**: wlrnjs5824@gmail.com  
 **Velog**: https://velog.io/@wlrnjs
