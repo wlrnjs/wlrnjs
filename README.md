@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jiKwon&fontSize=50&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jiKwon%20%7C%20Frontend%20Developer&fontSize=40&animation=fadeIn&fontAlignY=35&fontAlign=50)
 
 ### 안녕하세요, 프론트엔드 개발자입니다. 잘부탁드립니다!
 
