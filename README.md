@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jiKwon%20%7C%20Frontend%20Developer&fontSize=40&animation=fadeIn&fontAlignY=35&fontAlign=50)
+<div align="center">
 
-### 안녕하세요, 프론트엔드 개발자입니다. 잘부탁드립니다!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Frontend%20Developer%20%7C%20jiKwon&fontSize=40&animation=fadeIn&fontAlignY=35&fontAlign=50)
+---
 
-### 기술 스택
+### Skills & Tools
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -16,18 +17,16 @@
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
-<!-- Tools & Services -->
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <!-- Quality & Testing -->
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
+<!-- Tools & Services -->
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub 통계
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&hide=contribs,prs&show_icons=true&theme=tokyonight)
+### GitHub Stats
+![jiKwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true&theme=tokyonight)
+</div>
