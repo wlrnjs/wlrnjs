@@ -27,6 +27,14 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
+---
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![visitors](https://komarev.com/ghpvc/?username=wlrnjs&label=Profile%20views&color=0e75b6&style=flat)
+
 ### GitHub 통계
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrnjs&layout=compact&theme=tokyonight)
