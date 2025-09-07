@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Frontend%20Developer%20%7C%20jiKwon&fontSize=40&animation=fadeIn&fontAlignY=35&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Frontend%20Developer&fontSize=40&animation=fadeIn&fontAlignY=35&fontAlign=50)
 ---
 
 ### Skills & Tools
