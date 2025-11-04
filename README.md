@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### GitHub Stats
 ![jiKwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=true&theme=tokyonight)
