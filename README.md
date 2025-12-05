@@ -2,11 +2,10 @@
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">About Me</h3>
 
+- 문제를 **논리적으로 해결하는 과정**에 흥미를 느낍니다.
 - 개발과 관련된 **기술적 인사이트를 탐구하고 공유**합니다.
 - 문제의 **원인을 명확히 분석**하고 해결 과정을 팀과 함께합니다.
-- 어려운 문제를 **구조적으로 해결하는 과정**에 흥미를 느낍니다.
-- **근거 있는 기준**과 **일관된 패턴**을 기준으로 코드를 작성합니다.
-- **일관된 구조와 사용자 경험**을 함께 고려하며 개발합니다.
+- 작은 오류나 비일관성도 **세밀하게 확인하고 개선 포인트를 놓치지 않습니다.**
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Core Tech</h3>
 
@@ -32,12 +31,12 @@
 </li>
 
 <li>
-  <a title="find-my-item Repository" href="https://github.com/find-my-item">Find-my-item</a>
+  <a title="find-my-item Repository" href="https://github.com/find-my-item/FMI-FE">Find-my-item</a>
   <sub>2025.09 ~ 진행중 (Team)</sub> 
 </li>
 
 <li>
-  <a title="WHYNE Repository" href="https://github.com/Part-3-2">WHYNE</a>
+  <a title="WHYNE Repository" href="https://github.com/Part-3-2/WHYNE">WHYNE</a>
   <sub>2025.09 ~ 2025.10 (Team)</sub>
 </li>
 
