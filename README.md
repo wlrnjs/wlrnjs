@@ -23,23 +23,38 @@
 <ul>
 <li>
   <a title="PlayHive Repository" href="https://github.com/MT-TEAM-Org/web">PlayHive</a>
-  <sub>2025.01 ~ 2025.07</sub>  
+  <sub>2025.01 ~ 2025.07 (Team)</sub>  
 </li>
 
 <li>
-  <a title="find-my-item Repository" href="https://github.com/find-my-item">find-my-item</a>
-  <sub>2025.10 ~ 진행중</sub> 
+  <a title="DeepDive: JS Repository" href="https://github.com/wlrnjs/frame">Frame</a>
+  <sub>2025.04 ~ 미완성 (Solo)</sub>
+</li>
+
+<li>
+  <a title="find-my-item Repository" href="https://github.com/find-my-item">Find-my-item</a>
+  <sub>2025.09 ~ 진행중 (Team)</sub> 
+</li>
+
+<li>
+  <a title="WHYNE Repository" href="https://github.com/Part-3-2">WHYNE</a>
+  <sub>2025.09 ~ 2025.10 (Team)</sub>
 </li>
 
 <li>
   <a title="DeepDive: JS Repository" href="https://github.com/DeepDive-JS/deep-dive-js-notes">DeepDive: JS</a>
-  <sub>2025.09 ~ 진행중</sub>
+  <sub>2025.09 ~ 진행중 (Study)</sub>
+</li>
+
+<li>
+  <a title="Coworkers Repository" href="https://github.com/sprint18-4-4/Coworkers">Coworkers</a>
+  <sub>2025.11 ~ 2025.12 (Team)</sub>
 </li>
 </ul>
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Recent Blog Posts</h3>
 
-- 추가예정
+추가예정
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Contact</h3>
 
