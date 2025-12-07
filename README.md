@@ -2,8 +2,8 @@
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">About Me</h3>
 
-- 문제를 **논리적으로 해결하는 과정**에 흥미를 느낍니다.
 - 개발과 관련된 **기술적 인사이트를 탐구하고 공유**합니다.
+- 문제를 **논리적으로 해결하는 과정**에 흥미를 느낍니다.
 - 작은 오류나 비일관성도 **세밀하게 확인하고 개선 포인트를 놓치지 않습니다.**
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Core Tech</h3>
