@@ -41,7 +41,7 @@
 
 <li>
   <a title="DeepDive: JS Repository" href="https://github.com/DeepDive-JS/deep-dive-js-notes">DeepDive: JS</a>
-  <sub>2025.09 ~ 진행중 (Study)</sub>
+  <sub>2025.09 ~ 2025.12 (Study)</sub>
 </li>
 
 <li>
