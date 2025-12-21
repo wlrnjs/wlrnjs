@@ -81,4 +81,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<br clear="right" />
+
 <p align="center"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0931.gif" /></p>
