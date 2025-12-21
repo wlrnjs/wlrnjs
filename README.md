@@ -10,8 +10,6 @@
 
 [![Email](https://img.shields.io/badge/Email-wlrnjs5824@gmail.com-1E1E1E?style=flat-square)](mailto:wlrnjs5824@gmail.com) [![Blog](https://img.shields.io/badge/Blog-wlrnjs.xyz-000000?style=flat-square)](https://www.wlrnjs.xyz)
 
-<br clear="right" />
-
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Core Tech</h3>
 
 <p>
@@ -63,6 +61,8 @@
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Recent Blog Posts</h3>
 
 - _pending..._
+
+<br />
 
 <img
   align="right"
