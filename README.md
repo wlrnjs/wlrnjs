@@ -1,12 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:33529c,100:5d3d9d&height=150&fontColor=FFFFFF&section=header&text=Frontend%20Developer&fontSize=35&animation=fadeIn&fontAlignY=35&fontAlign=50) -->
 
-<img
-  align="right"
-  src="https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=false&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"
-  alt="wlrnjs github stats"
-  width="380"
-/>
-
 ### 안녕하세요!
 
 👾 문제의 원인을 차근차근 짚어보는 과정을 좋아합니다.
@@ -70,6 +63,13 @@
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Recent Blog Posts</h3>
 
 - _pending..._
+
+<img
+  align="right"
+  src="https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=false&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"
+  alt="wlrnjs github stats"
+  width="380"
+/>
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Weekly Coding Activity</h3>
 
