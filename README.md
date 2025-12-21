@@ -40,13 +40,17 @@
 </li>
 
 <li>
-  <a title="DeepDive: JS Repository" href="https://github.com/DeepDive-JS/deep-dive-js-notes">DeepDive: JS</a>
-  <sub>2025.09 ~ 2025.12 (Study)</sub>
-</li>
-
-<li>
   <a title="Coworkers Repository" href="https://github.com/sprint18-4-4/Coworkers">Coworkers</a>
   <sub>2025.11 ~ 2025.12 (Team)</sub>
+</li>
+</ul>
+
+<h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Community</h3>
+
+<ul>
+<li>
+  <a title="DeepDive: JS Repository" href="https://github.com/DeepDive-JS/deep-dive-js-notes">DeepDive: JS</a>
+  <sub>2025.09 ~ 2025.12 (Study)</sub>
 </li>
 </ul>
 
