@@ -1,7 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:33529c,100:5d3d9d&height=150&fontColor=FFFFFF&section=header&text=Frontend%20Developer&fontSize=35&animation=fadeIn&fontAlignY=35&fontAlign=50) -->
 
-<h3></h3>
-
 <img
   align="right"
   src="https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=false&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"
