@@ -76,6 +76,11 @@
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Weekly Coding Activity</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0931.gif" /></p>
