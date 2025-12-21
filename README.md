@@ -1,10 +1,25 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:33529c,100:5d3d9d&height=150&fontColor=FFFFFF&section=header&text=Frontend%20Developer&fontSize=35&animation=fadeIn&fontAlignY=35&fontAlign=50) -->
 
-<h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">About Me</h3>
+<h3></h3>
 
-- 개발과 관련된 **기술적 인사이트를 탐구하고 공유**합니다.
-- 문제를 **논리적으로 해결하는 과정**에 흥미를 느낍니다.
-- 작은 오류나 비일관성도 **세밀하게 확인하고 개선 포인트를 놓치지 않습니다.**
+<img
+  align="right"
+  src="https://github-readme-stats.vercel.app/api?username=wlrnjs&show_icons=false&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"
+  alt="wlrnjs github stats"
+  width="380"
+/>
+
+### 안녕하세요!
+
+👾 문제의 원인을 차근차근 짚어보는 과정을 좋아합니다.
+
+👾 React 컴포넌트 구조 설계와 Next.js 기반 개발을 선호합니다.
+
+👾 개발 이야기를 나누는 자리를 즐깁니다.
+
+[![Email](https://img.shields.io/badge/Email-wlrnjs5824@gmail.com-1E1E1E?style=flat-square)](mailto:wlrnjs5824@gmail.com) [![Blog](https://img.shields.io/badge/Blog-wlrnjs.xyz-000000?style=flat-square)](https://www.wlrnjs.xyz)
+
+<br clear="right" />
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Core Tech</h3>
 
@@ -56,9 +71,11 @@
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Recent Blog Posts</h3>
 
-추가예정
+- _pending..._
 
-<h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Contact</h3>
+<h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Weekly Coding Activity</h3>
 
-- <strong>Email:</strong> wlrnjs5824@gmail.com
-- <strong>Blog:</strong> https://www.wlrnjs.xyz
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0931.gif" /></p>
