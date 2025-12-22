@@ -8,7 +8,7 @@
 
 👾 개발 이야기를 나누는 자리를 즐깁니다.
 
-[![Email](https://img.shields.io/badge/Email-wlrnjs5824@gmail.com-1E1E1E?style=flat-square)](mailto:wlrnjs5824@gmail.com) [![Blog](https://img.shields.io/badge/Blog-wlrnjs.xyz-000000?style=flat-square)](https://www.wlrnjs.xyz) [![Views](https://komarev.com/ghpvc/?username=wlrnjs&style=flat-square&color=1E1E1E&label=Views)](https://github.com/wlrnjs)
+[![Email](https://img.shields.io/badge/Email-wlrnjs5824@gmail.com-1E1E1E?style=flat-square)](mailto:wlrnjs5824@gmail.com) [![Blog](https://img.shields.io/badge/Blog-wlrnjs.xyz-1E1E1E?style=flat-square)](https://www.wlrnjs.xyz) [![Views](https://komarev.com/ghpvc/?username=wlrnjs&style=flat-square&color=1E1E1E&label=Views)](https://github.com/wlrnjs)
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Core Tech</h3>
 
