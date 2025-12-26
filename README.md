@@ -71,6 +71,11 @@
   width="380"
 /> -->
 
+<h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">🐤 I'm an Early</h3>
+
+<!--START_SECTION:early-->
+<!--END_SECTION:early-->
+
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Weekly Coding Activity</h3>
 
 <!--START_SECTION:waka-->
