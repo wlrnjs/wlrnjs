@@ -72,31 +72,16 @@
 /> -->
 
 <!--START_SECTION:early-->
-
-**🐱 My GitHub Data**
-
-> 📦 59.2 kB Used in GitHub's Storage
->
-> 🏆 4,722 Contributions in the Year 2025
->
-> 🚫 Not Opted to Hire
->
-> 📜 10 Public Repositories
->
-> 🔑 43 Private Repositories
->
-> **I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                694 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-🌆 Daytime                1967 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 %
-🌃 Evening                1869 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-🌙 Night                  3153 commits        ██████████░░░░░░░░░░░░░░░   41.04 %
+🌞 Morning                694 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+🌆 Daytime                1967 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌃 Evening                1869 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌙 Night                  3154 commits        ██████████░░░░░░░░░░░░░░░   41.05 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/wlrnjs/wlrnjs/main/assets/bar_graph.png)
 
 <!--END_SECTION:early-->
 
