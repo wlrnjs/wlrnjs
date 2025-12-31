@@ -34,7 +34,7 @@
 </li>
 
 <li>
-  <a title="find-my-item Repository" href="https://github.com/find-my-item/FMI-FE">Find-my-item</a>
+  <a title="find-my-item Repository" href="https://github.com/find-my-item/FMI-FE">찾아줘!</a>
   <sub>2025.09 ~ 진행중 (Team)</sub> 
 </li>
 
