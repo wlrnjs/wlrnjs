@@ -102,8 +102,3 @@ Other        2 mins                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- <br clear="right" /> -->
-<br />
-<br />
-<br />
-
-<p align="center"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0931.gif" /></p>
