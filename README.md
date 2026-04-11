@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:33529c,100:5d3d9d&height=150&fontColor=FFFFFF&section=header&text=Frontend%20Developer&fontSize=35&animation=fadeIn&fontAlignY=35&fontAlign=50) -->
 
-### 안녕하세요! 저는
+### 안녕하세요! 저는..
 
 👾 문제의 원인을 차근차근 짚어보는 과정을 좋아합니다.
 
