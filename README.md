@@ -47,6 +47,11 @@
   <a title="Coworkers Repository" href="https://github.com/sprint18-4-4/Coworkers">Coworkers</a>
   <sub>2025.11 ~ 2025.12 (Team)</sub>
 </li>
+
+<li>
+  <a title="finditem monitoring Repository" href="https://github.com/finditem/infra-support">찾아줘! - 모니터링</a>
+  <sub>2026.04 ~ 진행중 (Team)</sub>
+</li>
 </ul>
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Community</h3>
