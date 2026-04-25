@@ -49,7 +49,7 @@
 </li>
 
 <li>
-  <a title="finditem monitoring Repository" href="https://github.com/finditem/infra-support">찾아줘! - 모니터링</a>
+  <a title="finditem monitoring Repository" href="https://github.com/finditem/infra-support">찾아줘! - API 모니터링</a>
   <sub>2026.04 ~ 진행중 (Team)</sub>
 </li>
 </ul>
