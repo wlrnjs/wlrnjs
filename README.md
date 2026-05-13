@@ -79,16 +79,6 @@
 /> -->
 
 <!--START_SECTION:early-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                682 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                3701 commits        ████████░░░░░░░░░░░░░░░░░   30.48 % 
-🌃 Evening                3058 commits        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-🌙 Night                  4701 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-```
-
-
 
 <!--END_SECTION:early-->
 
