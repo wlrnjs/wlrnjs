@@ -65,9 +65,9 @@
 
 <h3 style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Recent Blog Posts</h3>
 
+- [Root Layout의 Provider 중첩을 Compose 패턴으로 정리하기](https://www.wlrnjs.xyz/posts/nextjs-root-layout-provider-compose-pattern)
 - [NEXT_PUBLIC_ 환경변수는 왜 env인데 클라이언트에 노출될까](https://www.wlrnjs.xyz/posts/nextjs-next-public-env-exposed)
 - [React는 왜 기본적으로 XSS에 강할까?](https://www.wlrnjs.xyz/posts/why-react-is-resistant-to-xss)
-- [Next.js에서 보안 헤더를 설정한다는 것의 의미와 한계](https://www.wlrnjs.xyz/posts/nextjs-security-headers-boundary)
 
 <br />
 
