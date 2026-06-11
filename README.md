@@ -29,11 +29,6 @@
 </li>
 
 <li>
-  <a title="DeepDive: JS Repository" href="https://github.com/wlrnjs/frame">Frame</a>
-  <sub>2025.04 ~ 미완성 (Solo)</sub>
-</li>
-
-<li>
   <a title="finditem Repository" href="https://github.com/finditem/FI-FE">찾아줘!</a>
   <sub>2025.09 ~ 2026.04 (Team)</sub> 
 </li>
