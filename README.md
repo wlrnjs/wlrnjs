@@ -79,15 +79,43 @@
 <br />
 
 <!--START_SECTION:early-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2053%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1036 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-🌆 Daytime                6579 commits        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-🌃 Evening                5498 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-🌙 Night                  8182 commits        ██████████░░░░░░░░░░░░░░░   38.42 % 
+🌞 Morning                1058 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+🌆 Daytime                6697 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌃 Evening                5664 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌙 Night                  8322 commits        ██████████░░░░░░░░░░░░░░░   38.28 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 46 hrs 3 mins (96.85%)
+
+✍️ 34,891 lines written by AI, 395 lines written by hand (98.88% AI-written)
+
+🔤 726,679,233 Input Tokens, 5,870,498 Output Tokens
+
+💵 $3732.37 Estimated AI Cost This Week
+
+🧠 194 AI Sessions, 989 AI Prompts
+
+Opus                     32,809 lines        ██████████████████████░░░   89.39 % 
+Fable                    3,894 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.88% of written lines came from AI
+📄 Detailed Prompter — average 979 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.88% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:early-->
