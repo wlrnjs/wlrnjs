@@ -79,42 +79,42 @@
 <br />
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                862 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                5033 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌃 Evening                4331 commits        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌙 Night                  6341 commits        ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌞 Morning                809 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+🌆 Daytime                4532 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌃 Evening                3969 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌙 Night                  5751 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 26 mins (99.29%)
+⏱ AI Coding Time: 38 hrs 49 mins (98.95%)
 
-✍️ 95,827 lines written by AI, 68 lines written by hand (99.93% AI-written)
+✍️ 65,783 lines written by AI, 103 lines written by hand (99.84% AI-written)
 
-🔤 2,816,118,723 Input Tokens, 11,203,913 Output Tokens
+🔤 2,442,753,963 Input Tokens, 9,635,015 Output Tokens
 
-💵 $13957.25 Estimated AI Cost This Week
+💵 $12138.67 Estimated AI Cost This Week
 
-🧠 250 AI Sessions, 956 AI Prompts
+🧠 224 AI Sessions, 900 AI Prompts
 
-Opus                     90,768 lines        ███████████████████████░░   91.27 % 
-GPT                      4,591 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Sonnet                   2,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Fable                    1,993 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     60,915 lines        ██████████████████████░░░   88.34 % 
+GPT                      4,591 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Sonnet                   2,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Fable                    1,342 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Gemini                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 1,904 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 1,997 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
