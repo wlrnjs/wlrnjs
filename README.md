@@ -125,11 +125,11 @@ Gemini                   9 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         16 hrs 2 mins         ██████████▒░░░░░░░░░░░░░░   40.88 %
-Markdown                           11 hrs 57 mins        ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-JavaScript                         5 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-HTML                               56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Python                             53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript    15 hrs 52 mins        ███████████░░░░░░░░░░░░░░   44.39 %
+Markdown      10 hrs 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
+JavaScript    3 hrs 40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+HTML          1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python        50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
