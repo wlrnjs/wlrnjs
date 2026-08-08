@@ -79,7 +79,7 @@
 <br />
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -94,27 +94,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 4 mins (98.07%)
+⏱ AI Coding Time: 35 hrs 9 mins (97.82%)
 
-✍️ 44,276 lines written by AI, 128 lines written by hand (99.71% AI-written)
+✍️ 42,187 lines written by AI, 123 lines written by hand (99.71% AI-written)
 
-🔤 1,835,363,807 Input Tokens, 6,926,592 Output Tokens
+🔤 1,633,762,984 Input Tokens, 5,819,523 Output Tokens
 
-💵 $9505.59 Estimated AI Cost This Week
+💵 $8452.26 Estimated AI Cost This Week
 
-🧠 191 AI Sessions, 815 AI Prompts
+🧠 175 AI Sessions, 785 AI Prompts
 
-Opus                     38,986 lines        █████████████████████░░░░   82.19 % 
-GPT                      6,522 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Fable                    1,918 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Opus                     35,980 lines        ████████████████████░░░░░   81.83 % 
+GPT                      7,402 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Fable                    576 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 Gemini                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 1,932 characters per prompt
+📄 Detailed Prompter — average 1,196 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 
