@@ -84,37 +84,37 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                862 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                5033 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌃 Evening                4341 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌙 Night                  6341 commits        ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌞 Morning                1081 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+🌆 Daytime                6945 commits        ████████░░░░░░░░░░░░░░░░░   30.84 % 
+🌃 Evening                5947 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌙 Night                  8543 commits        █████████░░░░░░░░░░░░░░░░   37.94 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 9 mins (97.82%)
+⏱ AI Coding Time: 33 hrs 30 mins (97.72%)
 
-✍️ 42,187 lines written by AI, 123 lines written by hand (99.71% AI-written)
+✍️ 40,493 lines written by AI, 123 lines written by hand (99.7% AI-written)
 
-🔤 1,633,762,984 Input Tokens, 5,819,523 Output Tokens
+🔤 1,598,136,016 Input Tokens, 5,622,023 Output Tokens
 
-💵 $8452.26 Estimated AI Cost This Week
+💵 $8270.25 Estimated AI Cost This Week
 
-🧠 175 AI Sessions, 785 AI Prompts
+🧠 164 AI Sessions, 759 AI Prompts
 
-Opus                     35,980 lines        ████████████████████░░░░░   81.83 % 
-GPT                      7,402 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Fable                    576 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Opus                     34,655 lines        █████████████████████░░░░   82.02 % 
+GPT                      7,012 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Fable                    576 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 Gemini                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📄 Detailed Prompter — average 1,196 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📄 Detailed Prompter — average 1,193 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 
