@@ -1,4 +1,4 @@
-### 안녕하세요! 저는..
+<!-- ### 안녕하세요! 저는..
 
 👾 문제의 원인을 차근차근 짚어보는 과정을 좋아합니다.
 
@@ -22,7 +22,7 @@
 - [NEXT*PUBLIC* 환경변수는 왜 env인데 클라이언트에 노출될까](https://www.wlrnjs.xyz/posts/nextjs-next-public-env-exposed)
 - [React는 왜 기본적으로 XSS에 강할까?](https://www.wlrnjs.xyz/posts/why-react-is-resistant-to-xss)
 
-<!-- <details>
+<details>
 <summary style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Community</summary>
 <ul>
 <li>
@@ -30,7 +30,7 @@
   <sub>2025.09 ~ 2025.12 (Study)</sub>
 </li>
 </ul>
-</details> -->
+</details> 
 
 <details>
 <summary style="margin: 12px 0 8px; font-size: 18px; font-weight: 700;">Projects</summary>
@@ -77,6 +77,8 @@
 </details>
 
 <br />
+
+-->
 
 <!--START_SECTION:early-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2018%20mins-blue?style=flat)
