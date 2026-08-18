@@ -81,41 +81,41 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                994 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-🌆 Daytime                6313 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌃 Evening                5408 commits        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-🌙 Night                  7788 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
+🌞 Morning                983 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌆 Daytime                6243 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌃 Evening                5307 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌙 Night                  7698 commits        ██████████░░░░░░░░░░░░░░░   38.05 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 59 mins (98.45%)
+⏱ AI Coding Time: 36 hrs 53 mins (98.17%)
 
-✍️ 44,196 lines written by AI, 63 lines written by hand (99.86% AI-written)
+✍️ 35,332 lines written by AI, 63 lines written by hand (99.82% AI-written)
 
-🔤 35,102,089 Input Tokens, 7,213,682 Output Tokens
+🔤 27,775,422 Input Tokens, 6,237,453 Output Tokens
 
-💵 $1345.33 Estimated AI Cost This Week
+💵 $1154.98 Estimated AI Cost This Week
 
-🧠 191 AI Sessions, 1112 AI Prompts
+🧠 166 AI Sessions, 900 AI Prompts
 
-Opus                     43,225 lines        ████████████████████████░   94.48 % 
-GPT                      1,889 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Fable                    637 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Opus                     35,917 lines        █████████████████████████   98.26 % 
+Fable                    637 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 1,831 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.39% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 2,158 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.74% of changed lines were hand-edited
 ```
 
 
