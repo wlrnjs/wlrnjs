@@ -126,11 +126,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 hrs 4 mins         ████████████▓░░░░░░░░░░░░   50.76 %
-Markdown     10 hrs 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 %
-JavaScript   2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Python       1 hr 32 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Bash         1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TypeScript   14 hrs 30 mins        ████████████░░░░░░░░░░░░░   48.15 %
+Markdown     7 hrs 1 min           █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+JavaScript   2 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Bash         1 hr 47 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+YAML         1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
