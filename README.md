@@ -125,11 +125,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 51 mins        ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-Markdown     8 hrs 25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-Other        6 hrs 30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Bash         6 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-SQL          3 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+TypeScript   11 hrs 13 mins        ███████▒░░░░░░░░░░░░░░░░░   28.95 %
+Markdown     8 hrs 59 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Other        6 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Bash         5 hrs 17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+HTML         2 hrs 14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
