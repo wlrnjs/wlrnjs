@@ -81,7 +81,7 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-500%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-510%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -96,27 +96,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 29 mins (98.78%)
+⏱ AI Coding Time: 54 hrs 13 mins (98.83%)
 
-✍️ 18,110 lines written by AI, 36 lines written by hand (99.8% AI-written)
+✍️ 22,081 lines written by AI, 50 lines written by hand (99.77% AI-written)
 
-🔤 48,537,327 Input Tokens, 8,409,947 Output Tokens
+🔤 53,387,966 Input Tokens, 9,151,588 Output Tokens
 
-💵 $1890.36 Estimated AI Cost This Week
+💵 $1955.26 Estimated AI Cost This Week
 
-🧠 237 AI Sessions, 1310 AI Prompts
+🧠 268 AI Sessions, 1481 AI Prompts
 
-Opus                     13,806 lines        ██████████████████░░░░░░░   71.21 % 
-Fable                    3,488 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-GPT                      1,722 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Haiku                    371 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Opus                     15,187 lines        ████████████████░░░░░░░░░   64.99 % 
+Fable                    6,089 lines         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+GPT                      1,722 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Haiku                    371 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 693 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 673 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 
