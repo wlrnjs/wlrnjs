@@ -126,11 +126,11 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 hrs 33 mins        ██████████▓░░░░░░░░░░░░░░   42.53 %
-Markdown     12 hrs 14 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Other        6 hrs 32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-HTML         4 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JavaScript   2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TypeScript   24 hrs 2 mins         ██████████▒░░░░░░░░░░░░░░   41.88 %
+Markdown     15 hrs 29 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+Other        4 hrs 30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+HTML         4 hrs 23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+JavaScript   2 hrs 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
