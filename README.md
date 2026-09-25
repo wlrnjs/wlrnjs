@@ -86,34 +86,34 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1239 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-🌆 Daytime                8744 commits        ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌃 Evening                7617 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌙 Night                  10831 commits       ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌞 Morning                1321 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+🌆 Daytime                9333 commits        ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌃 Evening                8115 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌙 Night                  11512 commits       ██████████░░░░░░░░░░░░░░░   38.02 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 18 mins (99.59%)
+⏱ AI Coding Time: 28 hrs 12 mins (99.58%)
 
-✍️ 32,620 lines written by AI, 14 lines written by hand (99.96% AI-written)
+✍️ 25,053 lines written by AI, 9 lines written by hand (99.96% AI-written)
 
-🔤 36,265,384 Input Tokens, 6,512,624 Output Tokens
+🔤 26,802,652 Input Tokens, 4,543,928 Output Tokens
 
-💵 $1242.27 Estimated AI Cost This Week
+💵 $864.77 Estimated AI Cost This Week
 
-🧠 194 AI Sessions, 1059 AI Prompts
+🧠 146 AI Sessions, 740 AI Prompts
 
-Opus                     33,532 lines        █████████████████████████   99.08 % 
-Fable                    241 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-GPT                      71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Opus                     25,515 lines        █████████████████████████   98.79 % 
+Fable                    241 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+GPT                      71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,539 characters per prompt
+📚 Verbose Prompter — average 1,689 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
