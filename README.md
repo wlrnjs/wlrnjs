@@ -81,13 +81,13 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-650%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-659%20hrs%2046%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1310 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                9363 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌆 Daytime                9364 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
 🌃 Evening                8180 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 🌙 Night                  11556 commits       ██████████░░░░░░░░░░░░░░░   38.00 % 
 ```
@@ -96,24 +96,24 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 59 mins (99.37%)
+⏱ AI Coding Time: 43 hrs 58 mins (99.45%)
 
-✍️ 12,464 lines written by AI, 20 lines written by hand (99.84% AI-written)
+✍️ 17,612 lines written by AI, 20 lines written by hand (99.89% AI-written)
 
-🔤 26,973,353 Input Tokens, 2,989,396 Output Tokens
+🔤 34,431,250 Input Tokens, 4,106,963 Output Tokens
 
-💵 $457.46 Estimated AI Cost This Week
+💵 $606.94 Estimated AI Cost This Week
 
-🧠 141 AI Sessions, 1173 AI Prompts
+🧠 176 AI Sessions, 1405 AI Prompts
 
-Opus                     12,696 lines        █████████████████████████   100.00 % 
+Opus                     17,961 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📝 Concise Prompter — average 492 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 596 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 
