@@ -81,13 +81,13 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-675%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-682%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1394 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-🌆 Daytime                10125 commits       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌆 Daytime                10124 commits       ████████░░░░░░░░░░░░░░░░░   30.87 % 
 🌃 Evening                8860 commits        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 🌙 Night                  12420 commits       █████████░░░░░░░░░░░░░░░░   37.87 % 
 ```
@@ -96,26 +96,26 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 29 mins (99.01%)
+⏱ AI Coding Time: 42 hrs 30 mins (98.85%)
 
-✍️ 24,411 lines written by AI, 47 lines written by hand (99.81% AI-written)
+✍️ 23,392 lines written by AI, 42 lines written by hand (99.82% AI-written)
 
-🔤 39,866,318 Input Tokens, 5,401,326 Output Tokens
+🔤 36,936,207 Input Tokens, 5,231,246 Output Tokens
 
-💵 $707.52 Estimated AI Cost This Week
+💵 $656.16 Estimated AI Cost This Week
 
-🧠 231 AI Sessions, 1572 AI Prompts
+🧠 226 AI Sessions, 1410 AI Prompts
 
-Opus                     24,427 lines        ████████████████████████░   97.74 % 
-Sonnet                   564 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Opus                     23,442 lines        ████████████████████████░   97.65 % 
+Sonnet                   564 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 716 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 777 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
