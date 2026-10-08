@@ -81,7 +81,7 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-682%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-686%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -96,26 +96,26 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 30 mins (98.85%)
+⏱ AI Coding Time: 37 hrs 4 mins (98.57%)
 
-✍️ 23,392 lines written by AI, 42 lines written by hand (99.82% AI-written)
+✍️ 20,617 lines written by AI, 173 lines written by hand (99.17% AI-written)
 
-🔤 36,936,207 Input Tokens, 5,231,246 Output Tokens
+🔤 33,408,451 Input Tokens, 4,568,510 Output Tokens
 
-💵 $656.16 Estimated AI Cost This Week
+💵 $601.45 Estimated AI Cost This Week
 
-🧠 226 AI Sessions, 1410 AI Prompts
+🧠 201 AI Sessions, 1143 AI Prompts
 
-Opus                     23,442 lines        ████████████████████████░   97.65 % 
-Sonnet                   564 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Opus                     20,487 lines        ████████████████████████░   97.32 % 
+Sonnet                   564 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 777 characters per prompt
+🤖 AI-Driven — 99.17% of written lines came from AI
+📄 Detailed Prompter — average 864 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 
