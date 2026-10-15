@@ -81,13 +81,13 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-710%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-714%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1812 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-🌆 Daytime                13705 commits       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌞 Morning                1812 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌆 Daytime                13707 commits       ████████░░░░░░░░░░░░░░░░░   31.05 % 
 🌃 Evening                12014 commits       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 🌙 Night                  16609 commits       █████████░░░░░░░░░░░░░░░░   37.63 % 
 ```
@@ -96,25 +96,25 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 38 mins (96.29%)
+⏱ AI Coding Time: 28 hrs 13 mins (96.79%)
 
-✍️ 19,968 lines written by AI, 152 lines written by hand (99.24% AI-written)
+✍️ 17,851 lines written by AI, 21 lines written by hand (99.88% AI-written)
 
-🔤 29,720,978 Input Tokens, 4,044,535 Output Tokens
+🔤 26,119,785 Input Tokens, 3,649,716 Output Tokens
 
-💵 $544.96 Estimated AI Cost This Week
+💵 $479.29 Estimated AI Cost This Week
 
-🧠 137 AI Sessions, 867 AI Prompts
+🧠 133 AI Sessions, 846 AI Prompts
 
-Opus                     20,731 lines        █████████████████████████   100.00 % 
+Opus                     18,619 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📄 Detailed Prompter — average 888 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 856 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.8% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 
