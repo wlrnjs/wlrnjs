@@ -81,41 +81,42 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-725%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1552 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-🌆 Daytime                11337 commits       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-🌃 Evening                10008 commits       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌙 Night                  13860 commits       █████████░░░░░░░░░░░░░░░░   37.71 % 
+🌞 Morning                1423 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+🌆 Daytime                10153 commits       ████████░░░░░░░░░░░░░░░░░   30.71 % 
+🌃 Evening                9012 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+🌙 Night                  12473 commits       █████████░░░░░░░░░░░░░░░░   37.73 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 12 mins (95.8%)
+⏱ AI Coding Time: 39 hrs 47 mins (98.69%)
 
-✍️ 15,884 lines written by AI, 34 lines written by hand (99.79% AI-written)
+✍️ 29,769 lines written by AI, 45 lines written by hand (99.85% AI-written)
 
-🔤 26,301,005 Input Tokens, 3,626,695 Output Tokens
+🔤 34,495,164 Input Tokens, 5,152,435 Output Tokens
 
-💵 $384.86 Estimated AI Cost This Week
+💵 $516.92 Estimated AI Cost This Week
 
-🧠 142 AI Sessions, 899 AI Prompts
+🧠 227 AI Sessions, 1224 AI Prompts
 
-Opus                     15,934 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     23,621 lines        ████████████████████░░░░░   78.92 % 
+GPT                      2,194 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Vscode                   1,982 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Hermes-Agent             1,256 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+iPhone                   876 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 895 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 1,008 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 
