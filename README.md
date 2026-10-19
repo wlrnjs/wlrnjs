@@ -126,11 +126,11 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 31 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Markdown     7 hrs 13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-Other        7 hrs 10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Bash         2 hrs 45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-HTML         1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Markdown      9 hrs 37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+TypeScript    9 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+Other         8 hrs 19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+Bash          2 hrs 50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Swift         2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
