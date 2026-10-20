@@ -127,11 +127,11 @@ iPhone                   876 lines           █░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      9 hrs 37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-TypeScript    9 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-Other         8 hrs 19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-Bash          2 hrs 50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Swift         2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TypeScript    10 hrs 47 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Markdown      10 hrs 36 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
+Other         7 hrs 40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Bash          2 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Swift         2 hrs 29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
