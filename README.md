@@ -86,37 +86,37 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1672 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-🌆 Daytime                12500 commits       ████████░░░░░░░░░░░░░░░░░   30.89 % 
-🌃 Evening                11101 commits       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌙 Night                  15192 commits       █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌞 Morning                1683 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌆 Daytime                12600 commits       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌃 Evening                11234 commits       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌙 Night                  15322 commits       █████████░░░░░░░░░░░░░░░░   37.52 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 57 mins (96.78%)
+⏱ AI Coding Time: 35 hrs 14 mins (97.31%)
 
-✍️ 35,652 lines written by AI, 49 lines written by hand (99.86% AI-written)
+✍️ 34,652 lines written by AI, 42 lines written by hand (99.88% AI-written)
 
-🔤 37,217,787 Input Tokens, 5,842,257 Output Tokens
+🔤 33,208,502 Input Tokens, 5,378,115 Output Tokens
 
-💵 $566.78 Estimated AI Cost This Week
+💵 $529.28 Estimated AI Cost This Week
 
-🧠 234 AI Sessions, 1327 AI Prompts
+🧠 216 AI Sessions, 1173 AI Prompts
 
-Opus                     29,446 lines        █████████████████████░░░░   82.16 % 
-GPT                      2,194 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Vscode                   1,836 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Hermes-Agent             1,345 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-iPhone                   1,021 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Opus                     28,446 lines        ████████████████████░░░░░   81.64 % 
+GPT                      2,194 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Vscode                   1,836 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Hermes-Agent             1,345 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+iPhone                   1,021 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📄 Detailed Prompter — average 894 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 912 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 
