@@ -81,40 +81,38 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-804%20hrs%2012%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2056 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-🌆 Daytime                16146 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                14792 commits       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-🌙 Night                  19814 commits       █████████░░░░░░░░░░░░░░░░   37.52 % 
+🌞 Morning                1915 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                14842 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌃 Evening                13545 commits       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌙 Night                  18248 commits       █████████░░░░░░░░░░░░░░░░   37.59 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 19 mins (98.37%)
+⏱ AI Coding Time: 40 hrs 34 mins (98.24%)
 
-✍️ 45,691 lines written by AI, 59 lines written by hand (99.87% AI-written)
+✍️ 35,508 lines written by AI, 59 lines written by hand (99.83% AI-written)
 
-🔤 33,708,302 Input Tokens, 6,338,731 Output Tokens
+🔤 30,893,281 Input Tokens, 5,623,272 Output Tokens
 
-💵 $600.75 Estimated AI Cost This Week
+💵 $523.26 Estimated AI Cost This Week
 
-🧠 202 AI Sessions, 1286 AI Prompts
+🧠 211 AI Sessions, 1262 AI Prompts
 
-Opus                     46,723 lines        █████████████████████████   100.00 % 
+Opus                     36,576 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📄 Detailed Prompter — average 1,049 characters per prompt
+🤖 AI-Driven — 99.83% of written lines came from AI
+📄 Detailed Prompter — average 976 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 
