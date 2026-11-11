@@ -81,41 +81,42 @@
 -->
 
 <!--START_SECTION:early-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-853%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-🌆 Daytime                17364 commits       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-🌃 Evening                15950 commits       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  21167 commits       █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌞 Morning                2212 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌆 Daytime                18572 commits       ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌃 Evening                17083 commits       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+🌙 Night                  22645 commits       █████████░░░░░░░░░░░░░░░░   37.42 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 35 mins (99.72%)
+⏱ AI Coding Time: 43 hrs 31 mins (99.61%)
 
-✍️ 46,432 lines written by AI, 30 lines written by hand (99.94% AI-written)
+✍️ 41,904 lines written by AI, 32 lines written by hand (99.92% AI-written)
 
-🔤 32,909,702 Input Tokens, 6,262,472 Output Tokens
+🔤 36,380,525 Input Tokens, 6,288,438 Output Tokens
 
-💵 $534.31 Estimated AI Cost This Week
+💵 $603.34 Estimated AI Cost This Week
 
-🧠 218 AI Sessions, 1171 AI Prompts
+🧠 228 AI Sessions, 1237 AI Prompts
 
-Opus                     45,690 lines        ████████████████████████░   95.26 % 
-Sonnet                   1,263 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Haiku                    1,009 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     38,382 lines        ██████████████████████░░░   88.27 % 
+Fable                    2,827 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Sonnet                   1,263 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Haiku                    1,009 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 908 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
