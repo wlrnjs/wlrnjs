@@ -125,11 +125,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    13 hrs 46 mins        ███████▒░░░░░░░░░░░░░░░░░   29.53 %
-Markdown      7 hrs 47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Rust          7 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Other         6 hrs 46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Bash          2 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+TypeScript    13 hrs 1 min          ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Markdown      9 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Rust          9 hrs 10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Other         4 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Bash          4 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
